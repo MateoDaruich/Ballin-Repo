@@ -1,3 +1,3 @@
 # Ballin-Repo
 
-Repositorio para 4 monos :smile:
+Repositorio para 4 monos
